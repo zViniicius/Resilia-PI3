@@ -193,17 +193,6 @@
       "commission": 0.1,
       "sales": "1",
       "salary": null
-    },
-    {
-      "id": 5,
-      "enrollmentID": 84458,
-      "name": "Vinicius Caetano",
-      "ssn": "123-45-6789",
-      "supervisor": "Walter White",
-      "wageBase": 500,
-      "commission": 0.05,
-      "sales": null,
-      "salary": null
     }
   ]
 }

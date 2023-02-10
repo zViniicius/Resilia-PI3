@@ -1,0 +1,14 @@
+{
+  "/orders/list": "/orders/",
+  "/orders/create": "/orders/",
+  "/orders/update/:id": "/orders/:id",
+  "/orders/delete/:id": "/orders/:id",
+  "/clients/list": "/clients/",
+  "/clients/create": "/clients/",
+  "/clients/update/:id": "/clients/:id",
+  "/clients/delete/:id": "/clients/:id",
+  "/sellers/list": "/sellers/",
+  "/sellers/create": "/sellers/",
+  "/sellers/update/:id": "/sellers/:id",
+  "/sellers/delete/:id": "/sellers/:id"
+}
