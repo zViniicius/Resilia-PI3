@@ -1,0 +1,209 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "name": "Maddison Brakus",
+      "address": "1919 N Hutchinson Rd St",
+      "zip": "99212",
+      "phone": "(509) 926-5399",
+      "seller": "Sara Milles",
+      "total": 1000,
+      "items": [
+        {
+          "id": 1,
+          "name": "SmartTV 50pol 4K",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Fischer",
+      "address": "2937 El Camino Real",
+      "zip": "92782",
+      "phone": "(714) 505-2582",
+      "seller": "Mary Johnson",
+      "total": 1100,
+      "items": [
+        {
+          "id": 1,
+          "name": "Refrigerator 2 doors 500L",
+          "price": 900,
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "name": "Double Bed 2m x 1.5m",
+          "price": 200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "George Stanley",
+      "address": "910 S Airport Rd",
+      "zip": "62521",
+      "phone": "(714) 703-2582",
+      "seller": "Sam Judgson",
+      "total": 803,
+      "items": [
+        {
+          "id": 1,
+          "name": "Console Playstation 5 852GB Bundle 2 Controllers",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "name": "Game God of War Ragnarok PS5",
+          "price": 79,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "name": "Game Spiderman Miles Morales PS5",
+          "price": 59,
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "name": "Game Horizon Forbidden West PS5",
+          "price": 65,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Samir Morissette",
+      "address": "7821 W Sunrise Blvd",
+      "zip": "33322",
+      "phone": "(616) 322-0276",
+      "seller": "Sanderson Jones",
+      "total": 300,
+      "items": [
+        {
+          "id": 1,
+          "name": "Sofa 3 places 2m x 1m",
+          "price": 200,
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "name": "Cocktail Table 1m x 1m",
+          "price": 100,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "type": "Platinium Client",
+      "name": "Maddison Brakus",
+      "sex": "female",
+      "birthday": "1986-01-29",
+      "address": "1919 N Hutchinson Rd St",
+      "city": "Los Angeles",
+      "state": "California",
+      "zip": "92782",
+      "phone": "(714) 456-3443"
+    },
+    {
+      "id": 2,
+      "type": "Diamond Client",
+      "name": "Damion Bartell",
+      "sex": "male",
+      "birthday": "1996-04-09",
+      "address": "1919 N Hutchinson Rd St",
+      "city": "Los Angeles",
+      "state": "California",
+      "zip": "92782",
+      "phone": "(714) 505-2582"
+    },
+    {
+      "id": 3,
+      "type": "Silver Client",
+      "name": "Jazmyne Fisher",
+      "sex": "female",
+      "birthday": "1975-03-25",
+      "address": "14340 Torrey Chase Blvd",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "77014",
+      "phone": "(281) 456-3443"
+    },
+    {
+      "id": 4,
+      "type": "Diamond Client",
+      "name": "Virginie Funk",
+      "sex": "female",
+      "birthday": "1992-03-23",
+      "address": "123 Main St",
+      "city": "Decatur",
+      "state": "Indiana",
+      "zip": "62521",
+      "phone": "(217) 421-7452"
+    }
+  ],
+  "sellers": [
+    {
+      "id": 1,
+      "enrollmentID": 84458,
+      "name": "Sara Milles",
+      "ssn": "123-45-6789",
+      "supervisor": "Walter White",
+      "wageBase": 500,
+      "commission": 0.05,
+      "sales": null,
+      "salary": null
+    },
+    {
+      "id": 2,
+      "enrollmentID": 84759,
+      "name": "Vinicius Caetano",
+      "ssn": "475-43-0904",
+      "supervisor": "Walter White",
+      "wageBase": 500,
+      "commission": 0.07,
+      "sales": null,
+      "salary": null
+    },
+    {
+      "id": 3,
+      "enrollmentID": 84760,
+      "name": "Sam Judgson",
+      "ssn": "156-45-3434",
+      "supervisor": "Joana Ortiz",
+      "wageBase": 500,
+      "commission": 0.05,
+      "sales": null,
+      "salary": null
+    },
+    {
+      "id": 4,
+      "enrollmentID": 8471,
+      "name": "Sanderson Jones",
+      "ssn": "235-13-8564",
+      "supervisor": "Magno Silva",
+      "wageBase": 700,
+      "commission": 0.1,
+      "sales": "1",
+      "salary": null
+    },
+    {
+      "id": 5,
+      "enrollmentID": 84458,
+      "name": "Vinicius Caetano",
+      "ssn": "123-45-6789",
+      "supervisor": "Walter White",
+      "wageBase": 500,
+      "commission": 0.05,
+      "sales": null,
+      "salary": null
+    }
+  ]
+}
